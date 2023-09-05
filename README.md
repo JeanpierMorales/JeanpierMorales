@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @JeanpierMorales or Jeanpier :3
-- 👀 I am interested in learning programming development and its application in a digital and modern environment.
+- 👀 I am interested in learning programming development, both backend and frontend, and its application in a digital and modern environment.
 - 🌱 I am currently learning programming in Java, Python and taking software engineering career courses
 - 📫 How to contact me omarmoralessilva@outlook.com
 
