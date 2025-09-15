@@ -1,9 +1,6 @@
-- 👋 Hi, I'm @JeanpierMorales or Jeanpier :3
-- 👀 I am interested in learning programming development, both backend and frontend, and its application in a digital and modern environment.
-- 🌱 I am currently learning programming in Java, Python and taking software engineering career courses
-- 📫 How to contact me omarmoralessilva@outlook.com
-- I'm 20 years old 😎
-<!---
-JeanpierMorales/JeanpierMorales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h1 align="center"><b>Hi , I'm Jeanpier </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
