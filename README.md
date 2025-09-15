@@ -12,8 +12,8 @@
 
 - 🌱 I’m currently learning:  
   - Advanced **Data Structures & Algorithms** in C++  
-  - **Databases** (Oracle, MySQL, SQL Server, PostgreSQL, Supabase)  
-  - **Web Development** (HTML, CSS, JS, React.js)  
+  - **Databases** (MySQL, SQL Server, PostgreSQL, Supabase)  
+  - **Web Development** (HTML, CSS, React.js)  
   - **Machine learning** (Python)  
   - **Portuguese** 🇵🇹 (because why not?)  
 
