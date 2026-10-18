@@ -15,7 +15,6 @@
   - **Databases** (MySQL, SQL Server, PostgreSQL, Supabase)  
   - **Web Development** (HTML, CSS, React.js)  
   - **Machine learning** (Python)  
-  - **Portuguese** 🇵🇹 (because why not?)  
 
 - 👯 I’m looking forward to collaborating on **open source projects** and **tech communities**.  
 - ✔ Ask me about **AI applications, programming fundamentals, or software projects**, I’ll be glad to help 😉  
